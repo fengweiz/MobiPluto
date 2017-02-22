@@ -27,4 +27,3 @@ Additionally, I want to thank the authors of the works mentioned above.
 Bing Chang
 Institute of Information Engineering, Chinese Academy of Sciences, China
 changbing@iie.ac.cn
-
